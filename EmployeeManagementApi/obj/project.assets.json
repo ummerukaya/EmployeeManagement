@@ -11744,11 +11744,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Umme Rukaya Suny\\Angular\\EmployeeManagement\\EmployeeManagement.csproj",
+      "projectUniqueName": "C:\\Umme Rukaya Suny\\Angular\\EmployeeManagement\\EmployeeManagementApi\\EmployeeManagement.csproj",
       "projectName": "EmployeeManagement",
-      "projectPath": "C:\\Umme Rukaya Suny\\Angular\\EmployeeManagement\\EmployeeManagement.csproj",
+      "projectPath": "C:\\Umme Rukaya Suny\\Angular\\EmployeeManagement\\EmployeeManagementApi\\EmployeeManagement.csproj",
       "packagesPath": "C:\\Users\\BS990.BS-990\\.nuget\\packages\\",
-      "outputPath": "C:\\Umme Rukaya Suny\\Angular\\EmployeeManagement\\obj\\",
+      "outputPath": "C:\\Umme Rukaya Suny\\Angular\\EmployeeManagement\\EmployeeManagementApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -11766,7 +11766,6 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
-        "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -11779,6 +11778,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -11837,7 +11841,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

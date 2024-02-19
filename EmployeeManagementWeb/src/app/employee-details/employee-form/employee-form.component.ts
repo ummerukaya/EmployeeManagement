@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, ElementRef, OnInit, ViewChild } from '@angular/core';
 import { EmployeeService } from '../../shared/employee.service';
 import { NgForm } from '@angular/forms';
 import { Employee } from '../../shared/employee.model';
@@ -11,6 +11,8 @@ import { ToastrService } from 'ngx-toastr';
 })
 export class EmployeeFormComponent implements OnInit{
 
+    @ViewChild('checkbox1') checkbox: ElementRef;
+    isSlide: string = 'off';
     constructor(public employeeService: EmployeeService,
       public toast: ToastrService){
 
@@ -23,8 +25,8 @@ export class EmployeeFormComponent implements OnInit{
     }
 
     submit(employeeForm:NgForm){
-        this.employeeService.employeeData.isMarried = employeeForm.value.isMarried = true ? 1 : 0;
-        this.employeeService.employeeData.isActive = employeeForm.value.isActive = true ? 1 : 0;
+        this.employeeService.employeeData.isMarried = employeeForm.value.isMarried == true ? 1 : 0;
+        this.employeeService.employeeData.isActive = employeeForm.value.isActive == true ? 1 : 0;
 
         if(this.employeeService.employeeData.id == 0){
           this.insertEmployee(employeeForm);
@@ -51,13 +53,25 @@ export class EmployeeFormComponent implements OnInit{
     }
 
     resetForm(employeeForm:NgForm){
-      employeeForm.form.reset();
+      employeeForm.form.reset(employeeForm.value);
       this.employeeService.employeeData = new Employee();
+      this.hideShowSlide();
     }
 
     refreshData(){
       this.employeeService.getEmployees().subscribe(data=>{
         this.employeeService.employeesList = data;
       });
+    }
+
+    hideShowSlide(){
+      if(this.checkbox.nativeElement.checked){
+        this.checkbox.nativeElement.checked = false;
+        this.isSlide = 'off';
+      }
+      else{
+        this.checkbox.nativeElement.checked = true;
+        this.isSlide = 'on';
+      }
     }
 }

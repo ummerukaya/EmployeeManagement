@@ -1,8 +1,9 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, ViewChild } from '@angular/core';
 import { EmployeeService } from '../shared/employee.service';
 import { Employee } from '../shared/employee.model';
 import { DatePipe } from '@angular/common';
 import { ToastrService } from 'ngx-toastr';
+import { EmployeeFormComponent } from './employee-form/employee-form.component';
 
 @Component({
   selector: 'app-employee-details',
@@ -11,6 +12,7 @@ import { ToastrService } from 'ngx-toastr';
 })
 export class EmployeeDetailsComponent implements OnInit {
 
+  @ViewChild(EmployeeFormComponent) emp: EmployeeFormComponent;
   constructor(public employeeService: EmployeeService,
     public datePipe: DatePipe,
     public toast: ToastrService){
@@ -29,6 +31,9 @@ export class EmployeeDetailsComponent implements OnInit {
     let dateFormat = this.datePipe.transform(selectedEmployee.doj, 'yyyy-MM-dd');
     selectedEmployee.doj = dateFormat;
     this.employeeService.employeeData = selectedEmployee;
+    if(this.emp.isSlide === 'off'){
+      this.emp.hideShowSlide();
+    }
   }
 
   deleteEmployee(id:number){

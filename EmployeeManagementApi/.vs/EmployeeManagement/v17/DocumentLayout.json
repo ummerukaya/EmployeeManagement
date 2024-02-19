@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Umme Rukaya Suny\\Angular\\EmployeeManagement\\EmployeeManagementApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{986FB186-82BA-407C-B4AB-5C9E3DA6F645}|EmployeeManagement.csproj|c:\\umme rukaya suny\\angular\\employeemanagement\\employeemanagementapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{986FB186-82BA-407C-B4AB-5C9E3DA6F645}|EmployeeManagement.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{986FB186-82BA-407C-B4AB-5C9E3DA6F645}|EmployeeManagement.csproj|c:\\umme rukaya suny\\angular\\employeemanagement\\employeemanagementapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{986FB186-82BA-407C-B4AB-5C9E3DA6F645}|EmployeeManagement.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{986FB186-82BA-407C-B4AB-5C9E3DA6F645}|EmployeeManagement.csproj|c:\\umme rukaya suny\\angular\\employeemanagement\\employeemanagementapi\\models\\designation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{986FB186-82BA-407C-B4AB-5C9E3DA6F645}|EmployeeManagement.csproj|solutionrelative:models\\designation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{986FB186-82BA-407C-B4AB-5C9E3DA6F645}|EmployeeManagement.csproj|c:\\umme rukaya suny\\angular\\employeemanagement\\employeemanagementapi\\models\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{986FB186-82BA-407C-B4AB-5C9E3DA6F645}|EmployeeManagement.csproj|solutionrelative:models\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{986FB186-82BA-407C-B4AB-5C9E3DA6F645}|EmployeeManagement.csproj|c:\\umme rukaya suny\\angular\\employeemanagement\\employeemanagementapi\\migrations\\20240215094249_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{986FB186-82BA-407C-B4AB-5C9E3DA6F645}|EmployeeManagement.csproj|solutionrelative:migrations\\20240215094249_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{986FB186-82BA-407C-B4AB-5C9E3DA6F645}|EmployeeManagement.csproj|c:\\umme rukaya suny\\angular\\employeemanagement\\employeemanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{986FB186-82BA-407C-B4AB-5C9E3DA6F645}|EmployeeManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{986FB186-82BA-407C-B4AB-5C9E3DA6F645}|EmployeeManagement.csproj|c:\\umme rukaya suny\\angular\\employeemanagement\\employeemanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{986FB186-82BA-407C-B4AB-5C9E3DA6F645}|EmployeeManagement.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{986FB186-82BA-407C-B4AB-5C9E3DA6F645}|EmployeeManagement.csproj|c:\\umme rukaya suny\\angular\\employeemanagement\\employeemanagementapi\\employeemanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{986FB186-82BA-407C-B4AB-5C9E3DA6F645}|EmployeeManagement.csproj|solutionrelative:employeemanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{986FB186-82BA-407C-B4AB-5C9E3DA6F645}|EmployeeManagement.csproj|c:\\umme rukaya suny\\angular\\employeemanagement\\employeemanagementapi\\controllers\\designationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{986FB186-82BA-407C-B4AB-5C9E3DA6F645}|EmployeeManagement.csproj|solutionrelative:controllers\\designationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{986FB186-82BA-407C-B4AB-5C9E3DA6F645}|EmployeeManagement.csproj|c:\\umme rukaya suny\\angular\\employeemanagement\\employeemanagementapi\\migrations\\20240216120111_addcolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{986FB186-82BA-407C-B4AB-5C9E3DA6F645}|EmployeeManagement.csproj|solutionrelative:migrations\\20240216120111_addcolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{986FB186-82BA-407C-B4AB-5C9E3DA6F645}|EmployeeManagement.csproj|c:\\umme rukaya suny\\angular\\employeemanagement\\employeemanagementapi\\migrations\\20240216094710_changecolumntype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{986FB186-82BA-407C-B4AB-5C9E3DA6F645}|EmployeeManagement.csproj|solutionrelative:migrations\\20240216094710_changecolumntype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Umme Rukaya Suny\\Angular\\EmployeeManagement\\EmployeeManagementApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Umme Rukaya Suny\\Angular\\EmployeeManagement\\EmployeeManagementApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-19T06:30:21.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeManagement.csproj",
+              "DocumentMoniker": "C:\\Umme Rukaya Suny\\Angular\\EmployeeManagement\\EmployeeManagementApi\\EmployeeManagement.csproj",
+              "RelativeDocumentMoniker": "EmployeeManagement.csproj",
+              "ToolTip": "C:\\Umme Rukaya Suny\\Angular\\EmployeeManagement\\EmployeeManagementApi\\EmployeeManagement.csproj",
+              "RelativeToolTip": "EmployeeManagement.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-19T06:30:21.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeContext.cs",
+              "DocumentMoniker": "C:\\Umme Rukaya Suny\\Angular\\EmployeeManagement\\EmployeeManagementApi\\Models\\EmployeeContext.cs",
+              "RelativeDocumentMoniker": "Models\\EmployeeContext.cs",
+              "ToolTip": "C:\\Umme Rukaya Suny\\Angular\\EmployeeManagement\\EmployeeManagementApi\\Models\\EmployeeContext.cs",
+              "RelativeToolTip": "Models\\EmployeeContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T06:30:21.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Designation.cs",
+              "DocumentMoniker": "C:\\Umme Rukaya Suny\\Angular\\EmployeeManagement\\EmployeeManagementApi\\Models\\Designation.cs",
+              "RelativeDocumentMoniker": "Models\\Designation.cs",
+              "ToolTip": "C:\\Umme Rukaya Suny\\Angular\\EmployeeManagement\\EmployeeManagementApi\\Models\\Designation.cs",
+              "RelativeToolTip": "Models\\Designation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T06:30:21.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Umme Rukaya Suny\\Angular\\EmployeeManagement\\EmployeeManagementApi\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Umme Rukaya Suny\\Angular\\EmployeeManagement\\EmployeeManagementApi\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T06:30:21.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Umme Rukaya Suny\\Angular\\EmployeeManagement\\EmployeeManagementApi\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Umme Rukaya Suny\\Angular\\EmployeeManagement\\EmployeeManagementApi\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAIwFQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T06:30:21.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240216120111_addcolumn.cs",
+              "DocumentMoniker": "C:\\Umme Rukaya Suny\\Angular\\EmployeeManagement\\EmployeeManagementApi\\Migrations\\20240216120111_addcolumn.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240216120111_addcolumn.cs",
+              "ToolTip": "C:\\Umme Rukaya Suny\\Angular\\EmployeeManagement\\EmployeeManagementApi\\Migrations\\20240216120111_addcolumn.cs",
+              "RelativeToolTip": "Migrations\\20240216120111_addcolumn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T06:30:21.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Umme Rukaya Suny\\Angular\\EmployeeManagement\\EmployeeManagementApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Umme Rukaya Suny\\Angular\\EmployeeManagement\\EmployeeManagementApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T06:30:21.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240216094710_ChangeColumnType.cs",
+              "DocumentMoniker": "C:\\Umme Rukaya Suny\\Angular\\EmployeeManagement\\EmployeeManagementApi\\Migrations\\20240216094710_ChangeColumnType.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240216094710_ChangeColumnType.cs",
+              "ToolTip": "C:\\Umme Rukaya Suny\\Angular\\EmployeeManagement\\EmployeeManagementApi\\Migrations\\20240216094710_ChangeColumnType.cs",
+              "RelativeToolTip": "Migrations\\20240216094710_ChangeColumnType.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAywAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T06:30:21.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240215094249_init.cs",
+              "DocumentMoniker": "C:\\Umme Rukaya Suny\\Angular\\EmployeeManagement\\EmployeeManagementApi\\Migrations\\20240215094249_init.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240215094249_init.cs",
+              "ToolTip": "C:\\Umme Rukaya Suny\\Angular\\EmployeeManagement\\EmployeeManagementApi\\Migrations\\20240215094249_init.cs",
+              "RelativeToolTip": "Migrations\\20240215094249_init.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAywAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T06:30:21.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DesignationController.cs",
+              "DocumentMoniker": "C:\\Umme Rukaya Suny\\Angular\\EmployeeManagement\\EmployeeManagementApi\\Controllers\\DesignationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DesignationController.cs",
+              "ToolTip": "C:\\Umme Rukaya Suny\\Angular\\EmployeeManagement\\EmployeeManagementApi\\Controllers\\DesignationController.cs",
+              "RelativeToolTip": "Controllers\\DesignationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T06:30:21.933Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

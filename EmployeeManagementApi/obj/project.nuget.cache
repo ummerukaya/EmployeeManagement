@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h/Eghdx+jZerbHNT+MRPL3yrdjKz8pHMmok1IOZCEtUcTnhtTiR/oqBzq6qCiPCGUWOo0M5Xg8Fk13W0Q44vlg==",
+  "dgSpecHash": "phN1BvbFV5TkTnTWpvn7qXwUjY69zGXZaiVCT+sIptK5K+E4CwdV/xPZP0LmyDJJT+wqLPefoLOm6pXqKVA20Q==",
   "success": true,
-  "projectFilePath": "C:\\Umme Rukaya Suny\\Angular\\EmployeeManagement\\EmployeeManagement.csproj",
+  "projectFilePath": "C:\\Umme Rukaya Suny\\Angular\\EmployeeManagement\\EmployeeManagementApi\\EmployeeManagement.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BS990.BS-990\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\BS990.BS-990\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
